@@ -1,2 +1,0 @@
-CSRF attacks -> cross-site request forgery attacks
-prevents XSS attacks -> cross-site scripting attacks
